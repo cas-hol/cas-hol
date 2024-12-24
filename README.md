@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cas-hol
+- 👋 Hi, I’m Cas
 - 👀 I’m interested in Backend/systems programming
 - 🌱 I’m currently learning Backend development
 - 💞️ I’m looking to collaborate on ???
