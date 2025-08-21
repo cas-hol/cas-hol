@@ -1,9 +1,9 @@
-👋 Hi, I’m cas.
-👀 I’m interested in Backend/Systems/Blockchain Tech. 
-Curently don't know what i'm doing.
-Just tweaking & learning stuff. #Just doing things
-
-<!---
+Hi, i'm Cas. 
+Just doing/learning about stuff i find interesting.
+tweaking things with go.
+exploring blockchain infra (reading only for now).
+backend & aspiring infra developer.
+<!--
 cas-hol/cas-hol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link o take a look at your changes.
 --->
