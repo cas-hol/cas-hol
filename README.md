@@ -1,5 +1,5 @@
 Hi, i'm Cas. 
-Just doing/learning about stuff i find interesting.
+Just learning about stuff i find interesting.
 tweaking things with go.
 exploring blockchain infra (reading only for now).
 backend & aspiring infra developer.
